@@ -7,7 +7,7 @@ The goal is to understand historical cryptocurrency price patterns and predict f
 
 ## 🚀 Live Demo
 
-🔗 https://crypto-time-series-analysis.streamlit.app/
+🔗 [https://crypto-time-series-analysis.streamlit.app/](https://crypto-time-series-analysis-xkm45ujtxzsohwszlv96ku.streamlit.app/)
 
 ---
 
