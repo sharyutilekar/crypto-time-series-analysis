@@ -78,7 +78,7 @@ Deep learning model for **sequence prediction**.
 ## ▶️ How to Run
 
 ```bash
-git clone https://github.com/Rachanashivarkar/crypto-time-series-analysis.git
+git clone https://github.com/sharyutilekar/crypto-time-series-analysis.git
 cd crypto-time-series-analysis/dashboard
 pip install -r requirements.txt
 streamlit run app.py
